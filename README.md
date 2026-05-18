@@ -23,11 +23,12 @@ GET /api/v1/cidades/{uf}
 
 ## Como executar
 
+## Como executar
+
 ```bash
 npm install
-node src/server.js
+npm start
 ```
-
 ## Porta
 A aplicação roda na porta 3000.
 
